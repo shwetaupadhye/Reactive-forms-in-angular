@@ -1,0 +1,11 @@
+.error {
+    color: red;
+}
+h1{
+    color: rgb(237, 100, 196);
+    background-color: #111;
+    width: 50%;
+    text-align: center;
+    font-size: 30px;
+
+}
